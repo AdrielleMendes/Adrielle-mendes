@@ -9,11 +9,11 @@
 
 #
 
-<p align="center"># Olá! 
+<p align="center"> 
 
 Sou **Adrielle Mendes Caboclo**, estudante de **Engenharia da Computação na Universidade Federal Rural de Pernambuco (UFRPE)**. Minha paixão reside no **desenvolvimento web** e na arquitetura de **sistemas de banco de dados**. Estou sempre em busca de novos aprendizados e desafios, com o objetivo de transformar ideias em soluções tecnológicas eficientes e inovadoras.
 
----.
+
   
 #
 
