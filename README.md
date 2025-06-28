@@ -1,7 +1,10 @@
 # Adrielle-mendes
-👩🏻‍💻 Faço Engenharia da Computação 
+👩🏻‍💻 Faço Engenharia da Computação
+
 👩🏻‍🎓 Universidade Federal Rural de Pernambuco
+
 🌷 Cultivando novas paixões na programação
+
 💭 Atualmente aprendendo sobre banco de dados e desenvolvimento de jogos 
 
 
