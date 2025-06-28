@@ -12,7 +12,6 @@
 
 
 
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adrielle-mendes&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Adrielle-mendes)
 <div align="center">
   <a href="https://git.io/typing-svg">
