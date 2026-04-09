@@ -20,36 +20,24 @@
 
 ---
 
+---
+
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&count_private=true" alt="Estatísticas">
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=rose_pine&bg_color=000&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c" alt="Estatísticas do GitHub">
-  <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrielleMendes&layout=compact&theme=rose_pine&bg_color=000&title_color=FF00F6&text_color=FFF&border_color=36123c&hide=html,css,javascript" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielleMendes&layout=compact&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&border_color=36123c&hide=html,css,javascript&langs_count=4" alt="Linguagens">
 </div>
 
 ---
 
 <div align="center">
-  <p><b>Minhas contribuições ~</b></p>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrielleMendes&theme=black-ice&background=000000&fire=FF00F6&currStreakLabel=FF00F6&sideLabels=FFF&dates=FFF" alt="GitHub Streak">
-</div>
-
----
-
-<img align="right" alt="Study GIF" height="190px" src="./src/study.gif">
-
-<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
+  <p><b>Minhas contribuições (Cobrinha) ~</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
