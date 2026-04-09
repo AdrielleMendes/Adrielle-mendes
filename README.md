@@ -32,11 +32,18 @@
 
 ---
 
+---
+
 <div align="center">
-  <p><b>Minhas contribuições (Cobrinha) </b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrielleMendes&theme=jolly&background=000000&fire=FF00F6&currStreakLabel=FF00F6&sideLabels=FFF&dates=FFF" alt="GitHub Streak">
+  <p><b>Minhas contribuições </b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/Adrielle-Mendes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrielleMendes/Adrielle-Mendes/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AdrielleMendes/Adrielle-Mendes/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
+---
 ---
 
 ---
