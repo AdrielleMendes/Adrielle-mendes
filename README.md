@@ -47,16 +47,23 @@
 
 ---
 
+---
+
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&count_private=true" alt="Estatísticas do GitHub">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielleMendes&layout=compact&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&border_color=36123c&hide=html,css,javascript&langs_count=4" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de Adrielle">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielleMendes&layout=compact&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&hide=html,css,javascript&langs_count=4" alt="Linguagens mais usadas por Adrielle">
 </div>
 
 ---
 
 <div align="center">
-  <p><b>Minhas contribuições </b></p>
-  <img src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <p><b>Minhas contribuições (Cobrinha) ~</b></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation Fallback" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrielleMendes&theme=jolly&background=000000&color=FFFFFF&ring=FF00F6&point=FF00F6">
+  </picture>
 </div>
