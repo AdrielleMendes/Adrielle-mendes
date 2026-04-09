@@ -57,6 +57,6 @@
 ---
 
 <div align="center">
-  <p><b>Minhas contribuições ~</b></p>
+  <p><b>Minhas contribuições </b></p>
   <img src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </div>
