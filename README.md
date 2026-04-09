@@ -20,37 +20,6 @@
 
 ---
 
-<img align="right" alt="Study GIF" height="190px" src="./src/study.gif">
-
-<h3 align="left">Conecte-se comigo!</h3>
-
-<div align="left">
-  <a href="mailto:adriellemendes234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/adrielle-mendes-027400359">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn">
-  </a>
-</div>
-
-<h3 align="left">🛠️ Tecnologias e Ferramentas </h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
-</div>
-
----
-
----
-
----
-
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
   <br>
@@ -65,4 +34,33 @@
   <p><b>Minhas contribuições ~</b></p>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrielleMendes&theme=black-ice&background=000000&fire=FF00F6&currStreakLabel=FF00F6&sideLabels=FFF&dates=FFF" alt="GitHub Streak">
+</div>
+
+---
+
+<img align="right" alt="Study GIF" height="190px" src="./src/study.gif">
+
+<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
+</div>
+
+<br>
+
+<h3 align="left">Conecte-se comigo!</h3>
+
+<div align="left">
+  <a href="mailto:adriellemendes234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/adrielle-mendes-027400359">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn">
+  </a>
 </div>
