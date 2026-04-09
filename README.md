@@ -20,8 +20,6 @@
 
 ---
 
----
-
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&count_private=true" alt="Estatísticas">
@@ -38,6 +36,22 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg">
     <img alt="github-snake" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+---
+
+<img align="right" alt="Study GIF" height="190px" src="./src/study.gif">
+
+<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
 </div>
 
 <br>
