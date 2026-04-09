@@ -33,7 +33,7 @@
   </a>
 </div>
 
-<h3 align="left">Minha Stack ~</h3>
+<h3 align="left">Tech Stack ~</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
