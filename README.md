@@ -21,21 +21,21 @@
 ---
 
 <div align="center">
-  <p><b>Minhas contribuições </b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <h3>📊 Minhas Estatísticas</h3>
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&count_private=true&include_all_commits=true" alt="Estatísticas">
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrielleMendes&layout=compact&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&border_color=36123c&hide=html,css,javascript&langs_count=4" alt="Linguagens">
 </div>
+
 ---
 
 <div align="center">
   <p><b>Minhas contribuições</b></p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/Adrielle-Mendes/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrielleMendes/Adrielle-Mendes/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AdrielleMendes/Adrielle-Mendes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -56,8 +56,9 @@
 </div>
 
 <br>
+<hr>
 
-<h3 align="left">Conecte-se comigo!</h3>
+<h3 align="left">📩 Conecte-se comigo!</h3>
 
 <div align="left">
   <a href="mailto:adriellemendes234@gmail.com">
