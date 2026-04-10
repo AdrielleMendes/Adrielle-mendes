@@ -22,11 +22,11 @@
 
 <div align="center">
   <h3>📊 Minhas Estatísticas</h3>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&count_private=true" alt="Estatísticas">
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrielleMendes&layout=compact&theme=jolly&bg_color=000&title_color=FF00F6&text_color=FFF&border_color=36123c&hide=html,css,javascript&langs_count=4" alt="Linguagens">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdrielleMendes&show_icons=true&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub">
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrielleMendes&layout=compact&theme=tokyonight&bg_color=16161a&title_color=FF00F6&text_color=FFF&icon_color=FF00F6&border_color=36123c&hide=html,css,javascript&langs_count=4" alt="Linguagens mais usadas">
 </div>
-
 ---
 
 <div align="center">
