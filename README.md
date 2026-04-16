@@ -30,11 +30,9 @@
 </div>
 
 ---
-<br>
 <div align="center">
-  <img src="https://64.media.tumblr.com/7968560064972e61665961672322476b/tumblr_inline_p6v26m0LGA1v7m6as_540.gifv" width="100%">
+  <img src="https://raw.githubusercontent.com/MaySperandio/MaySperandio/main/assets/pink-line.gif" width="100%">
 </div>
-<br>
   <p><b>Minhas contribuições</b></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
