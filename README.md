@@ -31,7 +31,7 @@
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MaySperandio/MaySperandio/main/assets/pink-line.gif" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/MaySperandio/MaySperandio/main/assets/pink-line.gif" width="100%">
 </div>
   <p><b>Minhas contribuições</b></p>
   <picture>
