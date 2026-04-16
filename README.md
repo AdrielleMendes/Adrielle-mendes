@@ -30,10 +30,11 @@
 </div>
 
 ---
+<br>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhmdjRyeGZzYzdtOW45ZHJidWNxNjR5NmE1eWExdmcxN2t5N2p0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/llNal9b6v36Q1eW04c/giphy.gif" width="100%">
+  <img src="https://64.media.tumblr.com/7968560064972e61665961672322476b/tumblr_inline_p6v26m0LGA1v7m6as_540.gifv" width="100%">
 </div>
-<div align="center">
+<br>
   <p><b>Minhas contribuições</b></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrielleMendes/AdrielleMendes/output/github-contribution-grid-snake-dark.svg">
